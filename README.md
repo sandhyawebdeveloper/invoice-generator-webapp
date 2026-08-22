@@ -50,8 +50,8 @@ A fully responsive Invoice Generator web application built with **HTML**, **CSS*
 ## 📬 Contact
 
 📧 Email: sandhyawebdeveloper0@gmail.com 
-🔗 Portfolio: [protfoliosandhyaprajapati.netlify.app](https://protfoliosandhyaprajapati.netlify.app)  
-🔗 LinkedIn: https://www.linkedin.com/in/sandhya-prajapati-1a40a125b/
+🔗 Portfolio: https://sandhya-prajapati.netlify.app/ 
+🔗 LinkedIn: https://www.linkedin.com/in/sandhya-prajapati-dev/
 
 ---
 
